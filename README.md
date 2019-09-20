@@ -1,4 +1,4 @@
-# List of Ubuntu certified hardware that doesn't work due to lack of support
+# List of Ubuntu certified hardware that doesn't work
 
 ## Synaptics, Inc. 06cb:009a fingerprint reader
 ### Info
