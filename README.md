@@ -26,4 +26,6 @@
 - [reverse engineering project](https://github.com/nmikhailov/Validity90/issues/34)
 - [lenovo support forum](https://forums.lenovo.com/t5/Other-Linux-Discussions/Linux-on-T495/m-p/4474320#M13440)
 
-> I you are aware of other unsupported Ubuntu certified hardware create a bug report in this repo.
+
+
+```If you are aware of other unsupported Ubuntu certified hardware create a bug report in this repo.```
