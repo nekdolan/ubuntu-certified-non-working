@@ -1,5 +1,7 @@
 # List of Ubuntu certified hardware that doesn't work
 
+```Note: these certifications are for the manufaturer OEM and not for the stock Ubuntu version```
+
 ## Synaptics, Inc. 06cb:009a fingerprint reader
 ### Info
 - Certification: https://certification.ubuntu.com/catalog/component/06cb:009a
