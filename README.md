@@ -1,3 +1,5 @@
+Libfprint Driver PR/MR: https://gitlab.freedesktop.org/libfprint/libfprint/merge_requests/63/diffs?commit_id=004cbcac660f28185b35fa5efd040f22ac8826da !
+
 # List of Ubuntu certified hardware that doesn't work
 
 ```Note: these certifications are for the manufaturer OEM and not for the stock Ubuntu version```
