@@ -29,6 +29,7 @@ Libfprint Driver PR/MR: https://gitlab.freedesktop.org/libfprint/libfprint/merge
 
 
 ## Synaptics, Inc. 06cb:00bd fingerprint reader
+``` This fingerprint reader should work with the latest firmware ```
 ### Info
 - Certification: https://certification.ubuntu.com/catalog/component/06cb:00bd 
 ### Affected Systems
