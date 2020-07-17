@@ -1,4 +1,4 @@
-Libfprint Driver PR/MR: https://gitlab.freedesktop.org/libfprint/libfprint/merge_requests/63/diffs?commit_id=004cbcac660f28185b35fa5efd040f22ac8826da !
+Unofficail workaround for the 06cb:009a: https://github.com/uunicorn/python-validity 
 
 # List of Ubuntu certified hardware that doesn't work
 
